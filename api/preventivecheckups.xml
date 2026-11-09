@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preventiveCheckups>
+  <title lang="en">Valid from 1 February 2019</title>
+  <title lang="cs">Platnost od 1.2.2019</title>
+  <columnLabel lang="en">Check-up after discharge from maternity hospital</columnLabel>
+  <columnLabel lang="cs">Prohlídka po propuštění z porodnice</columnLabel>
+  <rows>
+    <row index="0">
+      <text lang="en">At 14 days</text>
+      <text lang="cs">Ve 14 dnech</text>
+    </row>
+    <row index="1">
+      <text lang="en">At 6 weeks</text>
+      <text lang="cs">V 6 týdnech</text>
+    </row>
+    <row index="2">
+      <text lang="en">At 3 months</text>
+      <text lang="cs">Ve 3 měsících</text>
+    </row>
+    <row index="3">
+      <text lang="en">At 4, 6, 8, 10, 12 months</text>
+      <text lang="cs">Ve 4, 6, 8, 10, 12, měsících</text>
+    </row>
+    <row index="4">
+      <text lang="en">At 18 months</text>
+      <text lang="cs">V 18 měsíci</text>
+    </row>
+    <row index="5">
+      <text lang="en">At 3 years</text>
+      <text lang="cs">Ve 3 letech</text>
+    </row>
+    <row index="6">
+      <text lang="en">At 5, 7, 9, 11, 13, 15, 17, 19 years (exit check-up)</text>
+      <text lang="cs">V 5, 7, 9, 11, 13, 15, 17, 19 letech ( výstupní prohlídka )</text>
+    </row>
+  </rows>
+</preventiveCheckups>

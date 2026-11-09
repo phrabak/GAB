@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+  <practices>
+    <practice index="0">
+      <doctors>
+        <doctor index="0">MUDr. Antonín Gabera</doctor>
+        <doctor index="1">MUDr. Pavla Šoltezsová</doctor>
+      </doctors>
+      <phone>+420 773 709 502</phone>
+      <email>gabera-ordinace@seznam.cz</email>
+      <dataBox>Datová schránka (ID: imn2uhf)</dataBox>
+      <facebook>https://www.facebook.com/MUDR-Anton%C3%ADn-Gabera-d%C4%9Btsk%C3%BD-l%C3%A9ka%C5%99-578751426140864</facebook>
+    </practice>
+    <practice index="1">
+      <doctors>
+        <doctor index="0">MUDr. Antonín Gabera</doctor>
+        <doctor index="1">MUDr. Jana Kulhánková</doctor>
+      </doctors>
+      <phone>+420 725 349 400</phone>
+      <email>kulhankovaordinace@seznam.cz</email>
+      <dataBox>Datová schránka (ID: art7wsb)</dataBox>
+      <facebook></facebook>
+    </practice>
+  </practices>
+</contacts>

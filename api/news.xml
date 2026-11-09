@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<news>
+  <newsItem index="0">
+    <title>Ve dnech 29.10.2026 a 30.10.2026 zavřeno z provozních důvodů.</title>
+    <text>Zástup pro akutně nemocné zajištěn v ordinaci č.2, po předchozím telefonickém objednání 725 349 400.</text>
+    <active>true</active>
+    <color>#000000</color>
+    <backgroundColor>#ffdab9</backgroundColor>
+    <fontBold>false</fontBold>
+    <showLine>false</showLine>
+    <panelColor>#f0fff0</panelColor>
+  </newsItem>
+  <newsItem index="1">
+    <title>Všechny pacienty (zdravé i nemocné) ošetřujeme pouze po předchozím telefonickém objednání 773 709 502.</title>
+    <text>Od 1.1.2024:
+1. očkování proti lidskému papilomaviru (HPV) plně hrazeno pro dívky a chlapce ve věku 11 - 15 let.
+2. očkování proti meningokokovým nákazám plně hrazeno pro dívky a chlapce ve věku 14 - 16 let.</text>
+    <active>true</active>
+    <color>#ffffff</color>
+    <backgroundColor>#a9a9a9</backgroundColor>
+    <fontBold>true</fontBold>
+    <showLine>false</showLine>
+    <panelColor>#d3d3d3</panelColor>
+  </newsItem>
+  <newsItem index="2">
+    <title>Ve středu 21.10.2026</title>
+    <text>odpolední ordinace od 13:00 hod. do 15:00 hod.</text>
+    <active>true</active>
+    <color>#a0522d</color>
+    <backgroundColor></backgroundColor>
+    <fontBold>true</fontBold>
+    <showLine>false</showLine>
+    <panelColor>#ffefd5</panelColor>
+  </newsItem>
+  <newsItem index="3">
+    <title>Ve dnech 29.10.2026 a 30.10.2026 zavřeno z provozních důvodů.</title>
+    <text>odpolední ordinace od 13:00 hod. do 15:00 hod.</text>
+    <active>true</active>
+    <color>#000000</color>
+    <backgroundColor></backgroundColor>
+    <fontBold>true</fontBold>
+    <showLine>false</showLine>
+    <panelColor>#b0c4de</panelColor>
+  </newsItem>
+</news>

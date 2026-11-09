@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <services>
+    <language code="cs">
+      <service index="0">Aplikaci naušnic.</service>
+      <service index="1">Komplexní péči od 0 do 19 let věku dítěte včetně preventivních prohlídek, povinného i nepovinného očkování.</service>
+      <service index="2">Vyšetření CRP na přístroji v ordinaci (rozlišení bakterií a virové infekce).</service>
+      <service index="3">Vyšetření výtěru z krku rychlotestem STREP A.</service>
+      <service index="4">Stanovení hladiny cukru v krvi GLUKOMETREM.</service>
+      <service index="5">Možnost zapůjčení novorozenecké váhy.</service>
+      <service index="6">Vyšetření novorozenecké žloutenky BILIRUBINOMETREM.</service>
+    </language>
+    <language code="en">
+      <service index="0">Comprehensive care for children aged 0 to 19, including preventive check-ups and mandatory and optional vaccinations.</service>
+      <service index="1">Ear piercing.</service>
+      <service index="2">CRP testing on an in-office analyser (distinguishing bacterial and viral infections).</service>
+      <service index="3">Throat swab testing with the STREP A rapid test.</service>
+      <service index="4">Vision screening with the PLUSOPTIX device.</service>
+      <service index="5">Blood sugar measurement with a GLUCOMETER.</service>
+      <service index="6">Newborn jaundice screening with a BILIRUBINOMETER.</service>
+      <service index="7">Newborn baby scale rental.</service>
+    </language>
+  </services>
+  <team>
+    <member index="0" role="doctor" firstName="Antonín" lastName="Gabera" />
+    <member index="1" role="doctor" firstName="Pavla" lastName="Šolteszová" />
+    <member index="2" role="doctor" firstName="Jana" lastName="Kulhánková" />
+    <member index="3" role="nurse" firstName="Vlasta" lastName="Hrabáková" />
+    <member index="4" role="nurse" firstName="Lenka" lastName="Rogozinská" />
+    <member index="5" role="nurse" firstName="Jaroslava" lastName="Dupová" />
+  </team>
+</settings>

@@ -1,0 +1,482 @@
+{
+  "appTitle": "MUDr. Antonín Gabera",
+  "appSubtitle": "Dětský lékař Ústí nad Labem s.r.o.",
+  "menu": {
+    "open": "Otevřít menu",
+    "news": "Aktuality",
+    "about": "O nás",
+    "contact": "Kontakty",
+    "openingHours": "Ordinační doba",
+    "priceList": "Ceník",
+    "services": "Služby"
+  },
+  "news": {
+    "title": "Aktuality",
+    "loadFailed": "Aktuality se nepodařilo načíst."
+  },
+  "about": {
+    "title": "O nás",
+    "team": "Náš tým",
+    "practice1": "Ordinace 1",
+    "practice2": "Ordinace 2",
+    "nurse": "Dětská sestra",
+    "doctor": "Dětský lékař",
+    "bothPractices": "Pro obě ordinace",
+    "servicesTitle": "Naše ordinace poskytuje",
+    "services": [
+      "Komplexní péči od 0 do 19 let věku dítěte včetně preventivních prohlídek, povinného i nepovinného očkování.",
+      "Aplikaci naušnic.",
+      "Vyšetření CRP na přístroji v ordinaci (rozlišení bakterií a virové infekce).",
+      "Vyšetření výtěru z krku rychlotestem STREP A.",
+      "Vyšetření zraku přístrojem PLUSOPTIX.",
+      "Stanovení hladiny cukru v krvi GLUKOMETREM.",
+      "Vyšetření novorozenecké žloutenky BILIRUBINOMETREM.",
+      "Možnost zapůjčení novorozenecké váhy."
+    ]
+  },
+  "priceList": {
+    "title": "Ceník výkonů nehrazených zdravotní pojišťovnou",
+    "eetNotice": "Povinnost evidovat tržby elektronicky (EET) byla odložena. V ordinaci je možné platit kartou či bezkontaktně. Žádejte účtenku za provedené služby.",
+    "validFrom": "Platnost od 1.1.2021",
+    "tables": {
+      "school": {
+        "title": "Škola",
+        "rows": [
+          { "label": "Přihláška plávání kojenců", "price": "100,- Kč" },
+          { "label": "Přihláška do jeslí a mateřské školky", "price": "200,- Kč" },
+          { "label": "Posudek o zdravotní způsobilosti ke vzdělání - střední a vysoká škola (1 obor)", "price": "200,- Kč" },
+          { "label": "Posudek o zdravotní způsobilosti ke vzdělání - střední a vysoká škola (další obor)", "price": "100,- Kč" },
+          { "label": "Posudek o zdravotní způsobilosti k účasti na zotavovacích akcích", "price": "300,- Kč" }
+        ]
+      },
+      "sport": {
+        "title": "Sport - sportovní posudky mají podle legislativy platnost 1 rok",
+        "rows": [
+          { "label": "Posudek o zdravotní způsobilosti pro výkonnostní sport - vstupní výkonnostní", "price": "400,- Kč" },
+          { "label": "Posudek o zdravotní způsobilosti pro výkonnostní sport - opakovaná výkonnostní", "price": "300,- Kč" },
+          { "label": "Posudek o zdravotní způsobilosti pro sport - organizovaný sport, školní plávání, TV", "price": "200,- Kč" }
+        ]
+      },
+      "vaccination": {
+        "title": "Očkování",
+        "rows": [
+          { "label": "Očkování na vlastní žádost - aplikace očkovací látky", "price": "200,- Kč" }
+        ]
+      },
+      "certificates": {
+        "title": "Posudky a průkazy",
+        "rows": [
+          { "label": "Vystavení zdrav. způsobilosti pro práci v potravinářství, pro svářečský průkaz", "price": "300,- Kč" },
+          { "label": "Posudek o zdravotní způsobilosti k řidičskému oprávnění, zbrojní průkaz", "price": "500,- Kč" },
+          { "label": "Pracovně-lékařský posudek", "price": "500,- Kč" }
+        ]
+      },
+      "administrative": {
+        "title": "Administrativní úkony",
+        "rows": [
+          { "label": "Kopie ze zdravotní dokumentace - 1 strana", "price": "10,- Kč" },
+          { "label": "Vystavení duplikátu očkovacího průkazu", "price": "200,- Kč" },
+          { "label": "Výpis ze zdrav. dokumentace na žádost pacienta (na brigádu apod.)", "price": "300,- Kč" },
+          { "label": "Vyplnění pojistky pro pojišťovnu", "price": "300,- Kč" }
+        ]
+      },
+      "other": {
+        "title": "Ostatní",
+        "rows": [
+          { "label": "Aplikace náušnic:", "price": "700,- Kč" },
+          { "label": "Konzultace zdravotního stavu neregistrovaných pacientů:", "price": "1000,- Kč/hod" }
+        ]
+      }
+    }
+  },
+  "services": {
+    "title": "Služby",
+    "tabs": {
+      "vaccination": "Očkování",
+      "earPiercing": "Aplikace náušnic",
+      "preventiveCheckups": "Preventivní prohlídky"
+    },
+    "earPiercing": {
+      "title": "Aplikace náušnic",
+      "text": "Používáme sadu nástrojů Studex – systém 75. Jedná se o přesnou, rychlou a tichou aplikaci náušnic s chirurgické oceli. Aplikujeme pouze registrovaným kojencům, do ušních boltů, po předchozím objednání. Podmínkou je zdravý bolté a okolí a odstup po prvním očkování proti tetanu, aby dítě už mělo ochranné protilátky. Rodiče si mohou vybrat základní náušnice s obyčejnou olivkou, které po zhojení rány vymění za své náušnice nebo si mohou vybrat náušnice s okrasnou kytičkou (aktuální výběr ukážeme před aplikací)."
+    },
+    "preventiveCheckups": {
+      "title": "Platnost od 1.2.2019",
+      "columnLabel": "Prohlídka po propuštění z porodnice",
+      "rows": [
+        "Ve 14 dnech",
+        "V 6 týdnech",
+        "Ve 3 měsících",
+        "Ve 4, 6, 8, 10, 12, měsících",
+        "V 18 měsíci",
+        "Ve 3 letech",
+        "V 5, 7, 9, 11, 13, 15, 17, 19 letech ( výstupní prohlídka )"
+      ]
+    },
+    "vaccinationSchedule": {
+      "title": "Dětský očkovací kalendář uvádí jednoduchý a stručný přehled povinného i nepovinného hrazeného očkování dětí v ČR. Přehledná tabulka uvádí jak různé typy vakcinací, tak počty dávek, které je třeba aplikovat, aby očkované dítě bylo chráněno proti nákaze. V očkovacím kalendáři jsou uvedena povinná hrazená očkování, doporučená hrazená očkování i doporučená nehrazená očkování.",
+      "titleLinkText": "Národní zdravotnický informační portál - NZIP",
+      "headers": {
+        "term": "Termín",
+        "age": "Věk dítěte",
+        "mandatory": "Povinná hrazená očkování",
+        "optional": "Nepovinná hrazená očkování",
+        "disease": "Nemoc",
+        "vaccine": "Očkovací látka"
+      },
+      "rows": [
+        {
+          "age": "od 4. dne do 6.\u00a0týdne",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Tuberkulóza (pouze u rizikových dětí s indikací) #",
+          "mandatoryVaccine": "BCG vaccine SSI",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "od započatého 9. týdne (2 měsíce)",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Záškrt, tetanus, černý kašel, dětská obrna, virová hepatitida B, onemocnění vyvolaná Haemophilus influenzae b",
+          "mandatoryVaccine": "Hexavakcína: Infanrix Hexa, Hexacima – 1. dávka *",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "2.–3. měsíc",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 2,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMO B",
+          "optionalVaccine": "Bexsero – 1. dávka **"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IPO",
+          "optionalVaccine": "Prevenar 13, Synflorix – 1. dávka ***"
+        },
+        {
+          "age": "4 měsíce",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Záškrt, tetanus, černý kašel, dětská obrna, virová hepatitida B, onemocnění vyvolaná Haemophilus influenzae b",
+          "mandatoryVaccine": "Hexavakcína: Infanrix Hexa, Hexacima – 2. dávka *",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "4.–6. měsíc",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 2,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMO B",
+          "optionalVaccine": "Bexsero – 2. dávka"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IPO",
+          "optionalVaccine": "Prevenar 13, Synflorix – 2. dávka ***"
+        },
+        {
+          "age": "11.–13. měsíc",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Záškrt, tetanus, černý kašel, dětská obrna, virová hepatitida B, onemocnění vyvolaná Haemophilus influenzae b",
+          "mandatoryVaccine": "Hexavakcína: Infanrix Hexa, Hexacima – 3. dávka *",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "12.–15. měsíc",
+          "ageRowSpan": 3,
+          "mandatoryRowSpan": 3,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMO B",
+          "optionalVaccine": "Bexsero – 3. dávka"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMO A,C,W,Y",
+          "optionalVaccine": "Nimenrix, Menquadfi – 1. dávka ****"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IPO",
+          "optionalVaccine": "Prevenar 13, Synflorix – 3. dávka ***"
+        },
+        {
+          "age": "13.–18. měsíc",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Spalničky, zarděnky, příušnice",
+          "mandatoryVaccine": "M-M-RVAXPRO 1. dávka",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "od dovršení 5. do dovršení 6. roku věku dítěte",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Spalničky, zarděnky, příušnice",
+          "mandatoryVaccine": "M-M-RVAXPRO 2. dávka",
+          "optionalRowSpan": 2,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Záškrt, tetanus, černý kašel",
+          "mandatoryVaccine": "Tdap vakcína: Infanrix, Boostrix (přeočkování)"
+        },
+        {
+          "age": "od dovršení 10. do dovršení 11. roku",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Záškrt, tetanus, černý kašel, dětská obrna",
+          "mandatoryVaccine": "Tdap-IPV vakcína: Boostrix polio, Adacel Polio (přeočkování)",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "od dovršení 13. do dovršení 14. roku",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "Onemocnění lidským papillomavirem",
+          "optionalVaccine": "Cervarix, Gardasil, Gardasil 9 (celkem 2 dávky)"
+        },
+        {
+          "age": "od dovršení 14. do dovršení 15. roku věku",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 2,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMO B",
+          "optionalVaccine": "Trumenba, Bexsero (celkem 2 dávky) ¤"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMO A,C,W,Y",
+          "optionalVaccine": "Nimenrix, Menveo, Menquadfi – 1 dávka ¤¤"
+        }
+      ],
+      "footnotes": [
+        "# Včetně tuberkulinového testu prováděného v případech, kdy je třeba očkovat dítě starší 6 týdnů; očkování se v takovém případě provádí jen tehdy, je-li tuberkulinový test negativní. Vše platí pro rizikové skupiny dětí.",
+        "* U nedonošených dětí se očkování provede třemi dávkami očkovací látky podanými v intervalech nejméně jednoho měsíce mezi dávkami a čtvrtou dávkou podanou nejméně 6 měsíců po podání třetí dávky (tedy schéma 3+1).",
+        "** Proti invazivním meningokokovým infekcím způsobeným meningokokem skupiny B, je-li očkování zahájeno do dovršení dvanáctého měsíce věku.",
+        "*** U nedonošených dětí se očkování provede třemi dávkami očkovací látky podanými v intervalech nejméně jednoho měsíce mezi dávkami a čtvrtou dávkou podanou nejméně 6 měsíců po podání třetí dávky (tedy schéma 3+1).",
+        "**** Proti invazivním meningokokovým infekcím skupiny A, C, W, Y, je-li očkování provedeno jednou dávkou od dovršení prvního do dovršení druhého roku věku.",
+        "¤ Proti invazivním meningokokovým infekcím způsobeným meningokokem skupiny B, je-li očkování provedeno jednou dávkou od dovršení čtrnáctého do dovršení patnáctého roku věku. Očkování je hrazeno, pokud bylo v tomto věku zahájeno.",
+        "¤¤ Proti invazivním meningokokovým infekcím skupiny A, C, W, Y, je-li očkování provedeno jednou dávkou od dovršení čtrnáctého do dovršení patnáctého roku věku.",
+        "IMO Invazivní meningokové onemocnění",
+        "IPO Invazivní pneumokokové onemocnění",
+        "Upraveno podle vyhl. č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění pozdějších předpisů, a podle zákona č. 48/1997 Sb., o veřejném zdravotním pojištění, ve znění pozdějších předpisů."
+      ]
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "ordination1": "Ordinace 1",
+    "ordination2": "Ordinace 2",
+    "name": "MUDr. Antonín Gabera",
+    "nameExtra": "MUDr. Pavla Šoltezsová",
+    "addressLine1": "U Pivovarské zahrady 5,",
+    "addressLine2": "400 07 Ústí nad Labem Krásné Březno",
+    "email": "gabera-ordinace@seznam.cz",
+    "phone": "+420 773 709 502",
+    "databox": "Datová schránka (ID: imn2uhf)",
+    "facebook": "Facebook",
+    "name2": "MUDr. Jana Kulhánková",
+    "phone2": "+420 725 349 400",
+    "email2": "kulhankovaordinace@seznam.cz",
+    "databox2": "Datová schránka (ID: art7wsb)",
+    "facebook2": "",
+    "mapTitle": "Mapa - U Pivovarské zahrady 5, Ústí nad Labem",
+    "mapHint": "Kliknutím otevřete mapu v novém okně",
+    "insuranceTitle": "Jsme smluvními partnery pro tyto pojišťovny",
+    "insuranceVzpAlt": "111 - VZP - Všeobecná zdravotní pojišťovna",
+    "insuranceVozpAlt": "201 - VoZP - Vojenská zdravotní pojišťovna",
+    "insuranceCpzpAlt": "205 – Česká průmyslová zdravotní pojišťovna",
+    "insuranceOzpAlt": "207 – Oborová zdravotní pojišťovna",
+    "insuranceZpmvcrAlt": "211 – Zdravotní pojišťovna ministerstva vnitra"
+  },
+  "openingHours": {
+    "title": "Ordinační doba",
+    "appointmentNotice": "Všechny pacienty (zdravé i nemocné) ošetřujeme pouze po předchozím telefonickém objednání.",
+    "bloodDrawNotice": "Pondělí - Pátek: 7:30 - 8:00 hod. - odběry.",
+    "lspp": {
+      "title": "LSPP (areál Masarykovy nemocnice)",
+      "weekdays": "Pondělí - Pátek",
+      "weekdaysTime": "17 - 20 hod.",
+      "weekend": "Sobota, Neděle, Svátek",
+      "weekendTime": "9 - 18 hod."
+    },
+    "office1": "Ordinace 1",
+    "office2": "Ordinace 2",
+    "day": "Den",
+    "time": "Čas",
+    "service": "Náplň",
+    "days": {
+      "mon": "Po",
+      "tue": "Út",
+      "wed": "St",
+      "thu": "Čt",
+      "fri": "Pá"
+    },
+    "services": {
+      "infantCare": "Poradna pro kojence",
+      "sickPatients": "Pro nemocné",
+      "assessment": "Posudková činnost",
+      "vaccination": "Očkování, prevence"
+    }
+  },
+  "auth": {
+    "signInTitle": "Přihlášení",
+    "username": "Uživatelské jméno",
+    "password": "Heslo",
+    "signInButton": "Přihlásit se",
+    "signOutButton": "Odhlásit se",
+    "setPassword": "Nastavit heslo",
+    "manageNews": "Spravovat aktuality",
+    "setAboutUs": "Upravit O nás",
+    "setOpeningHours": "Upravit ordinační dobu",
+    "setPreventiveCheckups": "Upravit preventivní prohlídky",
+    "setContact": "Upravit kontakty",
+    "invalidCredentials": "Neplatné uživatelské jméno nebo heslo.",
+    "loginFailed": "Přihlášení se nezdařilo. Server není dostupný."
+  },
+  "settings": {
+    "title": "Upravit O nás",
+    "servicesTitle": "Služby na stránce O nás",
+    "serviceLabel": "Služba",
+    "addService": "Přidat službu",
+    "deleteService": "Smazat službu",
+    "moveService": "Přetáhnutím změníte pořadí",
+    "firstName": "Jméno",
+    "lastName": "Příjmení",
+    "addMember": "Přidat člena týmu",
+    "deleteMember": "Smazat člena týmu",
+    "deleteMemberConfirm": "Opravdu chcete tohoto člena týmu smazat?",
+    "deleteServiceConfirm": "Opravdu chcete tuto službu smazat?",
+    "cancel": "Zrušit",
+    "delete": "Smazat",
+    "moveMember": "Přetáhnutím změníte pořadí",
+    "showPreview": "Zobrazit náhled O nás",
+    "backToEdit": "Zpět na úpravu O nás",
+    "loadFailed": "Načtení nastavení se nezdařilo.",
+    "saveFailed": "Uložení nastavení se nezdařilo."
+  },
+  "setPreventiveCheckups": {
+    "title": "Upravit preventivní prohlídky",
+    "titleLabel": "Nadpis (platnost)",
+    "columnLabel": "Název sloupce",
+    "rowLabel": "Prohlídka",
+    "deleteRow": "Smazat řádek",
+    "deleteRowConfirm": "Opravdu chcete tento řádek smazat?",
+    "addRow": "Přidat řádek",
+    "loadFailed": "Preventivní prohlídky se nepodařilo načíst.",
+    "saveFailed": "Preventivní prohlídky se nepodařilo uložit.",
+    "showPreview": "Zobrazit náhled",
+    "backToEdit": "Zpět k úpravám"
+  },
+  "setContact": {
+    "title": "Upravit kontakty",
+    "doctors": "Lékaři",
+    "contactDetails": "Kontaktní údaje",
+    "doctor": "Lékař (titul, jméno a příjmení)",
+    "deleteDoctor": "Smazat lékaře",
+    "deleteDoctorConfirm": "Opravdu chcete tohoto lékaře smazat?",
+    "addDoctor": "Přidat lékaře",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "dataBox": "Datová schránka",
+    "facebook": "Adresa Facebooku",
+    "loadFailed": "Kontakty se nepodařilo načíst.",
+    "saveFailed": "Kontakty se nepodařilo uložit.",
+    "showPreview": "Zobrazit náhled kontaktů",
+    "backToEdit": "Zpět na úpravu kontaktů"
+  },
+  "setOpeningHours": {
+    "title": "Upravit ordinační dobu",
+    "bloodDrawTitle": "Odběry a LSPP",
+    "notice": "Oznámení",
+    "deleteRow": "Smazat řádek",
+    "deleteRowConfirm": "Opravdu chcete tento řádek smazat?",
+    "addRow": "Přidat řádek",
+    "loadFailed": "Načtení ordinační doby se nezdařilo.",
+    "saveFailed": "Uložení ordinační doby se nezdařilo.",
+    "showPreview": "Zobrazit náhled ordinační doby",
+    "backToEdit": "Zpět na úpravu ordinační doby"
+  },
+  "setPassword": {
+    "title": "Nastavit heslo",
+    "hint": "Heslo musí mít alespoň 12 znaků, obsahovat alespoň jedno velké písmeno a jedno číslo.",
+    "newPassword": "Nové heslo",
+    "confirmPassword": "Potvrzení hesla",
+    "errorLength": "Heslo musí mít alespoň 12 znaků.",
+    "errorUppercase": "Heslo musí obsahovat alespoň jedno velké písmeno.",
+    "errorNumber": "Heslo musí obsahovat alespoň jedno číslo.",
+    "errorMismatch": "Hesla se neshodují.",
+    "save": "Uložit",
+    "cancel": "Zrušit",
+    "success": "Heslo bylo uloženo.",
+    "saveFailed": "Heslo se nepodařilo uložit."
+  },
+  "setNews": {
+    "title": "Spravovat aktuality",
+    "listTitle": "Aktuality",
+    "newItem": "Nová aktualita",
+    "emptyList": "Zatím nejsou žádné aktuality.",
+    "listLoadFailed": "Seznam aktualit se nepodařilo načíst.",
+    "titleLabel": "Nadpis",
+    "text": "Text",
+    "active": "Aktivní",
+    "color": "Barva nadpisu",
+    "fontBold": "Tučný nadpis",
+    "showLine": "Zobrazit čáru pod textem",
+    "deactivateAll": "Deaktivovat vše",
+    "deactivateAllFailed": "Aktuality se nepodařilo upravit.",
+    "chooseColor": "Vybrat barvu",
+    "colorDialogTitle": "Vyberte barvu nadpisu",
+    "chooseBackground": "Vybrat pozadí",
+    "backgroundDialogTitle": "Vyberte pozadí nadpisu",
+    "noBackground": "Bez pozadí",
+    "choosePanelBackground": "Vybrat pozadí aktuality",
+    "panelDialogTitle": "Vyberte pozadí aktuality",
+    "select": "Vybrat",
+    "errorRequired": "Toto pole je povinné.",
+    "errorMinLength": "Zadejte alespoň {min} znaků.",
+    "errorMaxLength": "Zadejte nejvýše {max} znaků.",
+    "errorColor": "Zadejte barvu ve formátu #RRGGBB.",
+    "save": "Uložit",
+    "cancel": "Zrušit",
+    "success": "Aktualita byla uložena.",
+    "saveFailed": "Aktualitu se nepodařilo uložit.",
+    "delete": "Smazat",
+    "deleteDialogTitle": "Smazat aktualitu",
+    "deleteConfirm": "Opravdu chcete tuto aktualitu smazat?",
+    "deleteFailed": "Aktualitu se nepodařilo smazat.",
+    "dragToReorder": "Přetažením změníte pořadí",
+    "moveFailed": "Pořadí aktualit se nepodařilo uložit.",
+    "showPreview": "Zobrazit náhled aktualit",
+    "backToEdit": "Zpět na úpravu aktualit"
+  },
+  "language": "Jazyk",
+  "doorSign": "ORDINACE"
+}

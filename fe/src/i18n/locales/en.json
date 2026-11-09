@@ -1,0 +1,482 @@
+{
+  "appTitle": "MUDr. Antonín Gabera",
+  "appSubtitle": "Pediatrician in Ústí nad Labem s.r.o.",
+  "menu": {
+    "open": "Open menu",
+    "news": "News",
+    "about": "About us",
+    "contact": "Contacts",
+    "openingHours": "Opening hours",
+    "priceList": "Price list",
+    "services": "Services"
+  },
+  "news": {
+    "title": "News",
+    "loadFailed": "Failed to load news."
+  },
+  "about": {
+    "title": "About us",
+    "team": "Our team",
+    "practice1": "Practice 1",
+    "practice2": "Practice 2",
+    "nurse": "Paediatric nurse",
+    "doctor": "Paediatrician",
+    "bothPractices": "For both practices",
+    "servicesTitle": "Our practice provides",
+    "services": [
+      "Comprehensive care for children aged 0 to 19, including preventive check-ups and mandatory and optional vaccinations.",
+      "Ear piercing.",
+      "CRP testing on an in-office analyser (distinguishing bacterial and viral infections).",
+      "Throat swab testing with the STREP A rapid test.",
+      "Vision screening with the PLUSOPTIX device.",
+      "Blood sugar measurement with a GLUCOMETER.",
+      "Newborn jaundice screening with a BILIRUBINOMETER.",
+      "Newborn baby scale rental."
+    ]
+  },
+  "priceList": {
+    "title": "Price list of procedures not covered by health insurance",
+    "eetNotice": "The obligation to record sales electronically (EET) has been postponed. Payment by card or contactless payment is possible at the office. Please ask for a receipt for services provided.",
+    "validFrom": "Valid from 1 January 2021",
+    "tables": {
+      "school": {
+        "title": "School",
+        "rows": [
+          { "label": "Application for infant swimming lessons", "price": "100,- Kč" },
+          { "label": "Application for nursery and kindergarten", "price": "200,- Kč" },
+          { "label": "Medical fitness certificate for education - secondary and university (1 field of study)", "price": "200,- Kč" },
+          { "label": "Medical fitness certificate for education - secondary and university (additional field of study)", "price": "100,- Kč" },
+          { "label": "Medical fitness certificate for participation in recreational events", "price": "300,- Kč" }
+        ]
+      },
+      "sport": {
+        "title": "Sport medical certificates are valid for 1 year according to legislation",
+        "rows": [
+          { "label": "Medical fitness certificate for competitive sport - initial examination", "price": "400,- Kč" },
+          { "label": "Medical fitness certificate for competitive sport - repeat examination", "price": "300,- Kč" },
+          { "label": "Medical fitness certificate for sport - organized sport, school swimming, PE", "price": "200,- Kč" }
+        ]
+      },
+      "vaccination": {
+        "title": "Vaccination",
+        "rows": [
+          { "label": "Vaccination at own request - vaccine administration", "price": "200,- Kč" }
+        ]
+      },
+      "certificates": {
+        "title": "Certificates and licenses",
+        "rows": [
+          { "label": "Issuance of medical fitness certificate for work in the food industry, for welder's license", "price": "300,- Kč" },
+          { "label": "Medical fitness certificate for driving license, firearms license", "price": "500,- Kč" },
+          { "label": "Occupational medical certificate", "price": "500,- Kč" }
+        ]
+      },
+      "administrative": {
+        "title": "Administrative tasks",
+        "rows": [
+          { "label": "Copy from medical records - 1 page", "price": "10,- Kč" },
+          { "label": "Issuance of a duplicate vaccination card", "price": "200,- Kč" },
+          { "label": "Extract from medical records at patient's request (for part-time job etc.)", "price": "300,- Kč" },
+          { "label": "Completion of insurance form for insurance company", "price": "300,- Kč" }
+        ]
+      },
+      "other": {
+        "title": "Other",
+        "rows": [
+          { "label": "Ear piercing:", "price": "700,- Kč" },
+          { "label": "Consultation on health status of unregistered patients:", "price": "1000,- Kč/hod" }
+        ]
+      }
+    }
+  },
+  "services": {
+    "title": "Services",
+    "tabs": {
+      "vaccination": "Vaccination",
+      "earPiercing": "Ear piercing",
+      "preventiveCheckups": "Preventive check-ups"
+    },
+    "earPiercing": {
+      "title": "Ear piercing",
+      "text": "We use the Studex System 75 instrument set. It provides a precise, fast and quiet application of earrings made of surgical steel. We only pierce the earlobes of registered infants, by prior appointment. The condition is a healthy earlobe and surrounding area, and enough time after the first tetanus vaccination so the child already has protective antibodies. Parents can choose basic earrings with a plain stud, which are exchanged for their own earrings once the wound has healed, or earrings with a decorative flower (the current selection will be shown before the application)."
+    },
+    "preventiveCheckups": {
+      "title": "Valid from 1 February 2019",
+      "columnLabel": "Check-up after discharge from maternity hospital",
+      "rows": [
+        "At 14 days",
+        "At 6 weeks",
+        "At 3 months",
+        "At 4, 6, 8, 10, 12 months",
+        "At 18 months",
+        "At 3 years",
+        "At 5, 7, 9, 11, 13, 15, 17, 19 years (exit check-up)"
+      ]
+    },
+    "vaccinationSchedule": {
+      "title": "The child vaccination schedule provides a simple and concise overview of mandatory and optional reimbursed vaccinations for children in the Czech Republic. The clear table lists both the different types of vaccinations and the number of doses that must be administered for the vaccinated child to be protected against infection. The schedule includes mandatory reimbursed vaccinations, recommended reimbursed vaccinations, and recommended non-reimbursed vaccinations.",
+      "titleLinkText": "National Health Information Portal - NZIP",
+      "headers": {
+        "term": "Term",
+        "age": "Child's age",
+        "mandatory": "Mandatory reimbursed vaccination",
+        "optional": "Optional reimbursed vaccination",
+        "disease": "Disease",
+        "vaccine": "Vaccine"
+      },
+      "rows": [
+        {
+          "age": "From day 4 to week 6",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Tuberculosis (only for at-risk children with indication) #",
+          "mandatoryVaccine": "BCG vaccine SSI",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "From the start of week 9 (2 months)",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Diphtheria, tetanus, pertussis, poliomyelitis, viral hepatitis B, diseases caused by Haemophilus influenzae type b",
+          "mandatoryVaccine": "Hexavalent vaccine: Infanrix Hexa, Hexacima – dose 1 *",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "2nd–3rd month",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 2,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMD B",
+          "optionalVaccine": "Bexsero – dose 1 **"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IPD",
+          "optionalVaccine": "Prevenar 13, Synflorix – dose 1 ***"
+        },
+        {
+          "age": "4 months",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Diphtheria, tetanus, pertussis, poliomyelitis, viral hepatitis B, diseases caused by Haemophilus influenzae type b",
+          "mandatoryVaccine": "Hexavalent vaccine: Infanrix Hexa, Hexacima – dose 2 *",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "4th–6th month",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 2,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMD B",
+          "optionalVaccine": "Bexsero – dose 2"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IPD",
+          "optionalVaccine": "Prevenar 13, Synflorix – dose 2 ***"
+        },
+        {
+          "age": "11th–13th month",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Diphtheria, tetanus, pertussis, poliomyelitis, viral hepatitis B, diseases caused by Haemophilus influenzae type b",
+          "mandatoryVaccine": "Hexavalent vaccine: Infanrix Hexa, Hexacima – dose 3 *",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "12th–15th month",
+          "ageRowSpan": 3,
+          "mandatoryRowSpan": 3,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMD B",
+          "optionalVaccine": "Bexsero – dose 3"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMD A,C,W,Y",
+          "optionalVaccine": "Nimenrix, Menquadfi – dose 1 ****"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IPD",
+          "optionalVaccine": "Prevenar 13, Synflorix – dose 3 ***"
+        },
+        {
+          "age": "13th–18th month",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Measles, rubella, mumps",
+          "mandatoryVaccine": "M-M-RVAXPRO dose 1",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "From the child's 5th to 6th birthday",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Measles, rubella, mumps",
+          "mandatoryVaccine": "M-M-RVAXPRO dose 2",
+          "optionalRowSpan": 2,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Diphtheria, tetanus, pertussis",
+          "mandatoryVaccine": "Tdap vaccine: Infanrix, Boostrix (booster)"
+        },
+        {
+          "age": "From the 10th to 11th birthday",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "Diphtheria, tetanus, pertussis, poliomyelitis",
+          "mandatoryVaccine": "Tdap-IPV vaccine: Boostrix polio, Adacel Polio (booster)",
+          "optionalRowSpan": 1,
+          "optionalDisease": "",
+          "optionalVaccine": ""
+        },
+        {
+          "age": "From the 13th to 14th birthday",
+          "ageRowSpan": 1,
+          "mandatoryRowSpan": 1,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "Human papillomavirus disease",
+          "optionalVaccine": "Cervarix, Gardasil, Gardasil 9 (2 doses total)"
+        },
+        {
+          "age": "From the 14th to 15th birthday",
+          "ageRowSpan": 2,
+          "mandatoryRowSpan": 2,
+          "mandatoryDisease": "",
+          "mandatoryVaccine": "",
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMD B",
+          "optionalVaccine": "Trumenba, Bexsero (2 doses total) ¤"
+        },
+        {
+          "optionalRowSpan": 1,
+          "optionalDisease": "IMD A,C,W,Y",
+          "optionalVaccine": "Nimenrix, Menveo, Menquadfi – 1 dose ¤¤"
+        }
+      ],
+      "footnotes": [
+        "# Including a tuberculin test performed when a child older than 6 weeks needs to be vaccinated; in that case, vaccination is carried out only if the tuberculin test is negative. This applies to at-risk groups of children.",
+        "* For premature infants, vaccination is carried out with three doses of vaccine given at intervals of at least one month between doses, followed by a fourth dose given at least 6 months after the third dose (i.e. the 3+1 schedule).",
+        "** Against invasive meningococcal disease caused by meningococcus group B, if vaccination is started before the age of 12 months.",
+        "*** For premature infants, vaccination is carried out with three doses of vaccine given at intervals of at least one month between doses, followed by a fourth dose given at least 6 months after the third dose (i.e. the 3+1 schedule).",
+        "**** Against invasive meningococcal disease groups A, C, W, Y, if vaccination is given as a single dose between the 1st and 2nd birthday.",
+        "¤ Against invasive meningococcal disease caused by meningococcus group B, if vaccination is given as a single dose between the 14th and 15th birthday. Vaccination is reimbursed if started at this age.",
+        "¤¤ Against invasive meningococcal disease groups A, C, W, Y, if vaccination is given as a single dose between the 14th and 15th birthday.",
+        "IMD Invasive meningococcal disease",
+        "IPD Invasive pneumococcal disease",
+        "Adapted from Decree No. 537/2006 Coll., on vaccination against infectious diseases, as amended, and Act No. 48/1997 Coll., on public health insurance, as amended."
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "ordination1": "Ordinace 1",
+    "ordination2": "Ordinace 2",
+    "name": "MUDr. Antonín Gabera",
+    "nameExtra": "MUDr. Pavla Šoltezsová",
+    "addressLine1": "U Pivovarské zahrady 5,",
+    "addressLine2": "400 07 Ústí nad Labem Krásné Březno",
+    "email": "gabera-ordinace@seznam.cz",
+    "phone": "+420 773 709 502",
+    "databox": "Data box (ID: imn2uhf)",
+    "facebook": "Facebook",
+    "name2": "MUDr. Jana Kulhánková",
+    "phone2": "725 349 400",
+    "email2": "",
+    "databox2": "",
+    "facebook2": "",
+    "mapTitle": "Map - U Pivovarské zahrady 5, Ústí nad Labem",
+    "mapHint": "Click to open the map in a new window",
+    "insuranceTitle": "We are contracted partners for these health insurance companies",
+    "insuranceVzpAlt": "111 - VZP - General Health Insurance Company",
+    "insuranceVozpAlt": "201 - VoZP - Military Health Insurance Company",
+    "insuranceCpzpAlt": "205 – Czech Industrial Health Insurance Company",
+    "insuranceOzpAlt": "207 – Sectoral Health Insurance Company",
+    "insuranceZpmvcrAlt": "211 – Ministry of the Interior Health Insurance Company"
+  },
+  "openingHours": {
+    "title": "Opening hours",
+    "appointmentNotice": "We see all patients (healthy and sick) by prior telephone appointment only.",
+    "bloodDrawNotice": "Monday - Friday: 7:30 - 8:00 a.m. - blood tests.",
+    "lspp": {
+      "title": "Emergency Medical Service (Masaryk Hospital complex)",
+      "weekdays": "Monday - Friday",
+      "weekdaysTime": "5 - 8 p.m.",
+      "weekend": "Saturday, Sunday, Public Holiday",
+      "weekendTime": "9 a.m. - 6 p.m."
+    },
+    "office1": "Doctor's office 1",
+    "office2": "Doctor's office 2",
+    "day": "Day",
+    "time": "Time",
+    "service": "Service",
+    "days": {
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri"
+    },
+    "services": {
+      "infantCare": "Infant care consultation",
+      "sickPatients": "For sick patients",
+      "assessment": "Assessment activity",
+      "vaccination": "Vaccination, prevention"
+    }
+  },
+  "auth": {
+    "signInTitle": "Sign in",
+    "username": "Username",
+    "password": "Password",
+    "signInButton": "Sign in",
+    "signOutButton": "Sign out",
+    "setPassword": "Set password",
+    "manageNews": "Manage news",
+    "setAboutUs": "Edit About Us",
+    "setOpeningHours": "Edit opening hours",
+    "setPreventiveCheckups": "Edit preventive check-ups",
+    "setContact": "Edit contacts",
+    "invalidCredentials": "Invalid username or password.",
+    "loginFailed": "Sign-in failed. The server is not available."
+  },
+  "settings": {
+    "title": "Edit About Us",
+    "servicesTitle": "Services on the About Us page",
+    "serviceLabel": "Service",
+    "addService": "Add service",
+    "deleteService": "Delete service",
+    "moveService": "Drag to reorder",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "addMember": "Add team member",
+    "deleteMember": "Delete team member",
+    "deleteMemberConfirm": "Do you really want to delete this team member?",
+    "deleteServiceConfirm": "Do you really want to delete this service?",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "moveMember": "Drag to reorder",
+    "showPreview": "Show About Us preview",
+    "backToEdit": "Back to editing About Us",
+    "loadFailed": "Loading the settings failed.",
+    "saveFailed": "Saving the settings failed."
+  },
+  "setPreventiveCheckups": {
+    "title": "Edit preventive check-ups",
+    "titleLabel": "Heading (validity)",
+    "columnLabel": "Column name",
+    "rowLabel": "Check-up",
+    "deleteRow": "Delete row",
+    "deleteRowConfirm": "Do you really want to delete this row?",
+    "addRow": "Add row",
+    "loadFailed": "Failed to load the preventive check-ups.",
+    "saveFailed": "Failed to save the preventive check-ups.",
+    "showPreview": "Show preview",
+    "backToEdit": "Back to editing"
+  },
+  "setContact": {
+    "title": "Edit contacts",
+    "doctors": "Doctors",
+    "contactDetails": "Contact details",
+    "doctor": "Doctor (title, first and last name)",
+    "deleteDoctor": "Delete doctor",
+    "deleteDoctorConfirm": "Do you really want to delete this doctor?",
+    "addDoctor": "Add doctor",
+    "phone": "Phone",
+    "email": "E-mail",
+    "dataBox": "Data box",
+    "facebook": "Facebook address",
+    "loadFailed": "Failed to load the contacts.",
+    "saveFailed": "Failed to save the contacts.",
+    "showPreview": "Show contacts preview",
+    "backToEdit": "Back to editing contacts"
+  },
+  "setOpeningHours": {
+    "title": "Edit opening hours",
+    "bloodDrawTitle": "Blood tests and emergency service",
+    "notice": "Notice",
+    "deleteRow": "Delete row",
+    "deleteRowConfirm": "Do you really want to delete this row?",
+    "addRow": "Add row",
+    "loadFailed": "Loading the opening hours failed.",
+    "saveFailed": "Saving the opening hours failed.",
+    "showPreview": "Show opening hours preview",
+    "backToEdit": "Back to editing opening hours"
+  },
+  "setPassword": {
+    "title": "Set password",
+    "hint": "The password must be at least 12 characters long and contain at least one uppercase letter and one number.",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm password",
+    "errorLength": "The password must be at least 12 characters long.",
+    "errorUppercase": "The password must contain at least one uppercase letter.",
+    "errorNumber": "The password must contain at least one number.",
+    "errorMismatch": "The passwords do not match.",
+    "save": "Save",
+    "cancel": "Cancel",
+    "success": "The password has been saved.",
+    "saveFailed": "The password could not be saved."
+  },
+  "setNews": {
+    "title": "Manage news",
+    "listTitle": "News",
+    "newItem": "New news item",
+    "emptyList": "There are no news items yet.",
+    "listLoadFailed": "Failed to load the news list.",
+    "titleLabel": "Title",
+    "text": "Text",
+    "active": "Active",
+    "color": "Title color",
+    "fontBold": "Bold title",
+    "showLine": "Show line under text",
+    "deactivateAll": "Deactivate all",
+    "deactivateAllFailed": "The news could not be updated.",
+    "chooseColor": "Choose color",
+    "colorDialogTitle": "Choose title color",
+    "chooseBackground": "Choose background",
+    "backgroundDialogTitle": "Choose title background",
+    "noBackground": "No background",
+    "choosePanelBackground": "Choose news background",
+    "panelDialogTitle": "Choose news background",
+    "select": "Select",
+    "errorRequired": "This field is required.",
+    "errorMinLength": "Enter at least {min} characters.",
+    "errorMaxLength": "Enter at most {max} characters.",
+    "errorColor": "Enter the color as #RRGGBB.",
+    "save": "Save",
+    "cancel": "Cancel",
+    "success": "The news has been saved.",
+    "saveFailed": "The news could not be saved.",
+    "delete": "Delete",
+    "deleteDialogTitle": "Delete news item",
+    "deleteConfirm": "Do you really want to delete this news item?",
+    "deleteFailed": "The news could not be deleted.",
+    "dragToReorder": "Drag to reorder",
+    "moveFailed": "The news order could not be saved.",
+    "showPreview": "Show news preview",
+    "backToEdit": "Back to editing news"
+  },
+  "language": "Language",
+  "doorSign": "PRACTICE"
+}
